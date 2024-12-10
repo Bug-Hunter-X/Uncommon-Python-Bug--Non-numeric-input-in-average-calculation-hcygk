@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily missed Python error:  handling non-numeric data in calculations. The `calculate_average` function initially lacks proper error handling for non-numeric inputs, leading to a `TypeError`. The solution provides robust error handling and input validation.
